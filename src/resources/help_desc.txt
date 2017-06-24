@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<center><h3>ICD_Finder Help File</h3></center>
+
+Enter a word or phrase to search for in the descriptions.  Wildcards are permitted.
+<br>
+<ul>
+<li><b>gout</b> Looks in the descriptions for the <u>word</u> "gout".  This would not find descriptions containing "gouty".
+<li><b>gout*</b> Looks in the descriptions for the <u>word</u> "gout" or any word starting with "gout".  This would find "gouty".
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+<html>
+<head>
+</head>
+<body>
+<center><h3>ICD_Finder Help File</h3></center>
+
+For the 6th through 9th revision, you may enter any 3-digit code or a letter followed by 2 or 3 digits.
+<BR><BR>
+E.g.
+<UL>
+<LI>013</LI>
+<LI>E819</LI>
+<LI>V77</LI>
+</UL>
+<BR>
+For the 10th revision, you may enter a letter followed by 2 digits.
+<BR><BR>
+E.g.
+<UL>
+<LI>C10</LI>
+<LI>M02</LI>
+</UL>
+
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+/* 
+    Document   : ICD_Finder
+    Created on : Sep 15, 2013, 5:34:57 PM
+    Author     : alcorn
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+root { 
+	display: block;
+}
+
+tr.header {
+	background-color: #B0C4DE;
+	font-weight: bold;
+}
+
+tr.revheader {
+	background-color: #D8BFD8;
+	font-weight: bold;
+}
+
+td.center {
+	text-align: center;
+}
+
+td.nowrap {
+	text-wrap: none;
+}
+
+th.nowrap {
+	text-wrap: none;
+}
